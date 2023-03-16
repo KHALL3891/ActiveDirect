@@ -22,7 +22,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Create a Domain Controller and Client VM
-- Step 2
+- Add Client to Domain
 - Step 3
 - Step 4
 
