@@ -49,6 +49,6 @@ DNS Servers
 <img src="https://i.imgur.com/Os1qnVJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Running IP Config shows all current TCP/IP network configurations and refreshes dynamic host configuration protocol and domain name system settings.
+Running IP Config shows all current TCP/IP network configurations and refreshes dynamic host configuration protocol and domain name system settings. In this lab we also added our computer to the domain by switching to a static dns and adding the domain controller's private ip address.
 </p>
 <br />
