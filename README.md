@@ -23,7 +23,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 - Create a Domain Controller and Client VM
 - Add Client to Domain
-- Step 3
+- Configure DNS
 - Running IP Config to see changes made to the Client VM after being added to the domain
 
 <h2>Deployment and Configuration Steps</h2>
