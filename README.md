@@ -41,7 +41,7 @@ our Remote Desktop so that we could log into both our VMs to begin the lab.
 <img src="https://i.imgur.com/gwQf85A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-DNS Servers
+DNS Servers act as a middle man, translating user requests into IP Addresses.  
 </p>
 <br />
 
